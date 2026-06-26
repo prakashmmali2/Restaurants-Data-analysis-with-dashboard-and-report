@@ -82,47 +82,47 @@ The following analytical features were created:
 
 ## Business Performance
 
-| KPI | Result |
-|------|---------|
-| Total Orders | **<Insert Notebook Result>** |
-| Total Revenue | **<Insert Notebook Result>** |
-| Average Order Value | **<Insert Notebook Result>** |
-| Discount Percentage | **<Insert Notebook Result>** |
-| Refund Rate | **<Insert Notebook Result>** |
+| KPI |
+|------|
+| Total Orders |
+| Total Revenue |
+| Average Order Value | 
+| Discount Percentage |
+| Refund Rate |
 
 ---
 
 ## Customer Experience
 
-| KPI | Result |
-|------|---------|
-| Average Delivery Time | **<Insert Notebook Result>** |
-| Median Delivery Time | **<Insert Notebook Result>** |
-| 90th Percentile Delivery Time | **<Insert Notebook Result>** |
-| On-Time Delivery Rate | **<Insert Notebook Result>** |
-| Average Tip | **<Insert Notebook Result>** |
+| KPI | 
+|------|
+| Average Delivery Time | 
+| Median Delivery Time | 
+| 90th Percentile Delivery Time | 
+| On-Time Delivery Rate | 
+| Average Tip |
 
 ---
 
 ## Dasher Performance
 
-| KPI | Result |
-|------|---------|
-| Active Dashers | **<Insert Notebook Result>** |
-| Orders per Dasher | **<Insert Notebook Result>** |
-| Average Pickup Time | **<Insert Notebook Result>** |
-| Average Delivery Duration | **<Insert Notebook Result>** |
+| KPI |
+|------|
+| Active Dashers | 
+| Orders per Dasher |
+| Average Pickup Time |
+| Average Delivery Duration |
 
 ---
 
 ## Merchant Performance
 
-| KPI | Result |
-|------|---------|
-| Active Restaurants | **<Insert Notebook Result>** |
-| Orders per Restaurant | **<Insert Notebook Result>** |
-| Average Preparation Time | **<Insert Notebook Result>** |
-| Top Performing Restaurants | **Generated in Notebook** |
+| KPI | 
+|------|
+| Active Restaurants |
+| Orders per Restaurant |
+| Average Preparation Time | 
+| Top Performing Restaurants |
 
 ---
 
